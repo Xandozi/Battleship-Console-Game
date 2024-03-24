@@ -1,0 +1,24 @@
+C:\Users\Isaac\source\repos\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\bin\Debug\Batalha_Naval.exe.config
+C:\Users\Isaac\source\repos\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\bin\Debug\Batalha_Naval.exe
+C:\Users\Isaac\source\repos\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\bin\Debug\Batalha_Naval.pdb
+C:\Users\Isaac\source\repos\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.AssemblyReference.cache
+C:\Users\Isaac\source\repos\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isaac\source\repos\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.exe
+C:\Users\Isaac\source\repos\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.pdb
+D:\Curso Cinel\Aulas\UFCD5412 Programação de Computadores - Estruturada\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\bin\Debug\Batalha_Naval.exe.config
+D:\Curso Cinel\Aulas\UFCD5412 Programação de Computadores - Estruturada\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\bin\Debug\Batalha_Naval.exe
+D:\Curso Cinel\Aulas\UFCD5412 Programação de Computadores - Estruturada\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\bin\Debug\Batalha_Naval.pdb
+D:\Curso Cinel\Aulas\UFCD5412 Programação de Computadores - Estruturada\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.AssemblyReference.cache
+D:\Curso Cinel\Aulas\UFCD5412 Programação de Computadores - Estruturada\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.SuggestedBindingRedirects.cache
+D:\Curso Cinel\Aulas\UFCD5412 Programação de Computadores - Estruturada\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.CoreCompileInputs.cache
+D:\Curso Cinel\Aulas\UFCD5412 Programação de Computadores - Estruturada\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.exe
+D:\Curso Cinel\Aulas\UFCD5412 Programação de Computadores - Estruturada\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.pdb
+D:\Curso Cinel\Arquivados\UFCD5412 Programação de Computadores - Estruturada [ARQUIVADO]\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\bin\Debug\Batalha_Naval.exe.config
+D:\Curso Cinel\Arquivados\UFCD5412 Programação de Computadores - Estruturada [ARQUIVADO]\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\bin\Debug\Batalha_Naval.exe
+D:\Curso Cinel\Arquivados\UFCD5412 Programação de Computadores - Estruturada [ARQUIVADO]\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\bin\Debug\Batalha_Naval.pdb
+D:\Curso Cinel\Arquivados\UFCD5412 Programação de Computadores - Estruturada [ARQUIVADO]\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.AssemblyReference.cache
+D:\Curso Cinel\Arquivados\UFCD5412 Programação de Computadores - Estruturada [ARQUIVADO]\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.SuggestedBindingRedirects.cache
+D:\Curso Cinel\Arquivados\UFCD5412 Programação de Computadores - Estruturada [ARQUIVADO]\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.csproj.CoreCompileInputs.cache
+D:\Curso Cinel\Arquivados\UFCD5412 Programação de Computadores - Estruturada [ARQUIVADO]\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.exe
+D:\Curso Cinel\Arquivados\UFCD5412 Programação de Computadores - Estruturada [ARQUIVADO]\Repo\5412 Avaliação - Jogo da Batalha Naval\Batalha_Naval\obj\Debug\Batalha_Naval.pdb
